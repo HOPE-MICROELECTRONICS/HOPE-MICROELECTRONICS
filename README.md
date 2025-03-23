@@ -7,7 +7,7 @@ Shenzhen Hope Microelectronics Co., Ltd. (hereinafter referred to as "HOPERF"), 
 This GitHub repository primarily serves as a platform for releasing SDKs and example codes. Developers can find all HopeRF product SDKs here and discuss technical issues.
 
 ### SDK Release
-We've released a new SDK ([sdk_release](https://github.com/HopeRF)).
+We've released a new SDK ([sdk_release](https://github.com/HOPE-MICROELECTRONICS/sdk_release)).
 
 ## Other Resources
 Please find out about our events and products here: [HOPERF Website](https://www.hoperf.com/)
